@@ -2,7 +2,6 @@ public class Q1{
     public static void main(String[] args) {
         // 1. Declaration and Initialization
         int[] numbers = {10, 20, 30, 40, 50};
-
         // 2. Accessing elements (Index starts at 0)
         System.out.println("First element: " + numbers[0]);
 
